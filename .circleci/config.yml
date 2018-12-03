@@ -13,4 +13,4 @@ jobs:
     steps:
       - checkout
       - run: ls -al
-      - run: python -c demo.py
+      - run: python demo.py
